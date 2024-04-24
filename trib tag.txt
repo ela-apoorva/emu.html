@@ -1,0 +1,8 @@
+trib tag:
+<html>
+<head>
+   <title> Anchor tag </title>
+<head>
+   <a href="https://www.w3schools.com">
+   visit w3 school for more tags on HTML
+   </a>
